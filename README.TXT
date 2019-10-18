@@ -1,0 +1,1 @@
+这里面是我关于rtsp的一点总结，实现在android到android的投屏效果，android作为推流器到服务器进行中转播放
